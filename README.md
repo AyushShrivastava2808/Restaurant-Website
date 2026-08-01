@@ -1,6 +1,6 @@
 # 🍴 Premium Restaurant Website
 
-A simple yet premium restaurant website built using **HTML** and **CSS**.  
+A premium restaurant website built using **HTML** and **CSS**.  
 This project demonstrates a modern layout with a professional design, ideal for showcasing a restaurant’s menu, story, and contact details.
 
 
